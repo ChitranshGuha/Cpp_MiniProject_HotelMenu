@@ -46,5 +46,3 @@ Use the appropriate option to finish and submit the order or exit the program.
 Contribution
 Contributions are welcome! If you have ideas for improvements or additional features, feel free to open an issue or submit a pull request.
 
-**License**
-This project is licensed under the MIT License.
